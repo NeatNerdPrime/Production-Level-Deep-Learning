@@ -3,7 +3,7 @@
 
 ### :label: NEW: [Machine Learning Interviews](https://github.com/alirezadir/Machine-Learning-Interviews)
 
-:label: Note: This repo is under continous development, and all feedback and contribution are very welcome :blush:
+:label: Note: All feedback and contribution are very welcome :blush:
 
 Deploying deep learning models in production can be challenging, as it is far beyond training models with good performance. Several distinct components need to be designed and developed in order to deploy a production level deep learning system (seen below):
 
